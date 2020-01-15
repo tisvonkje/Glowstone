@@ -16,8 +16,13 @@ target
 !.gitattributes
 dependency-reduced-pom.xml
 .classpath
-.project
 .settings
 .db
 .DS_Store
 .vscode
+/.apt_generated/
+/.apt_generated_tests/
+/config/
+/lib/
+/logs/
+/worlds/
